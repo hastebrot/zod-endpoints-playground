@@ -1,0 +1,15 @@
+{
+  "importMap": "./import_map.json",
+  "tasks": {
+    "example:run": "deno run --no-check example/main.ts"
+  },
+  "compilerOptions": {
+    "allowJs": true,
+    "strict": true
+  },
+  "fmt": {
+    "options": {
+      "indentWidth": 2
+    }
+  }
+}

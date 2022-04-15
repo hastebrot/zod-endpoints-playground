@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "./": "./",
+    "@/": "./",
+    "https://raw.githubusercontent.com/colinhacks/zod/master/deno/lib/mod.ts": "./example/deps/zod.ts"
+  }
+}
